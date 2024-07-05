@@ -37,4 +37,7 @@ Ask your questions in the [Discussions](https://github.com/CURAJ-Open-Source-Com
 - Click `Private` (the default) and set it to `Public`:
 	
 	<img src="./img/3.png">
+ - Click `Private` (the default) and set it to `Public`:
+	
+	<img src="./img/4.png">
   
